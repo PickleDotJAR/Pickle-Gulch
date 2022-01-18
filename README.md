@@ -10,4 +10,4 @@ This map is completely free to download and use wherever you want which includes
 If you intend to re-distribute this data pack with your own modifications you **MUST** credit PickleDotJAR as the original creators of the map and datapack and link back to the 'Pickle Gulch' Planet Minecraft page (https://www.planetminecraft.com/project/pickle-gulch/), as well as include the original unmodified “source” files (all files provided via Github) in your version.
 
 
-For Map & Datapack instructions/information, check out the Pickle Gulch GHithub Wiki! https://github.com/PickleDotJAR/Pickle-Gulch/wiki
+For Map & Datapack instructions/information, check out the Pickle Gulch Github Wiki! https://github.com/PickleDotJAR/Pickle-Gulch/wiki
